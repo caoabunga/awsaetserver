@@ -7,9 +7,9 @@ using Xunit;
 using Amazon.Lambda.Core;
 using Amazon.Lambda.TestUtilities;
 
-using MySimpleFunction;
+using AETServer;
 
-namespace MySimpleFunction.Tests
+namespace AETServer.Tests
 {
     public class FunctionTest
     {
@@ -18,11 +18,13 @@ namespace MySimpleFunction.Tests
         {
 
             // Invoke the lambda function and confirm the string was upper cased.
-            var function = new Function();
+            var function = new ElgibilityFunctions();
             var context = new TestLambdaContext();
-            var upperCase = function.FunctionHandler("hello world", context);
+            var newUser = new NewUser();
+            newUser.firstName = "hello";
+            var upperCase = function.FunctionHandler(newUser, context);
 
-            Assert.Equal("HELLO WORLD", upperCase);
+            Assert.Equal("Generic response from FunctionHandler: AETServer.NewUser ", upperCase);
         }
     }
 }
