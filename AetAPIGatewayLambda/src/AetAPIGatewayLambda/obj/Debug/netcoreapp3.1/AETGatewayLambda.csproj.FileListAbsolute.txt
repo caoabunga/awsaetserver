@@ -1,0 +1,11 @@
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Debug/netcoreapp3.1/AETGatewayLambda.deps.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Debug/netcoreapp3.1/AETGatewayLambda.runtimeconfig.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Debug/netcoreapp3.1/AETGatewayLambda.runtimeconfig.dev.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Debug/netcoreapp3.1/AETGatewayLambda.dll
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Debug/netcoreapp3.1/AETGatewayLambda.pdb
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.AssemblyInfoInputs.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.AssemblyInfo.cs
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.csproj.CoreCompileInputs.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.dll
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.pdb
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/AETGatewayLambda.genruntimeconfig.cache

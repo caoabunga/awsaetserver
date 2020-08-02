@@ -1,0 +1,4 @@
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/MySimpleFunction.csprojAssemblyReference.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/MySimpleFunction.AssemblyInfoInputs.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/MySimpleFunction.AssemblyInfo.cs
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Debug/netcoreapp3.1/MySimpleFunction.csproj.CoreCompileInputs.cache

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/AETGatewayLambda.csproj": {}
+  },
+  "projects": {
+    "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/AETGatewayLambda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/AETGatewayLambda.csproj",
+        "projectName": "AETGatewayLambda",
+        "projectPath": "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/AETGatewayLambda.csproj",
+        "packagesPath": "/Users/caoabunga/.nuget/packages/",
+        "outputPath": "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/caoabunga/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

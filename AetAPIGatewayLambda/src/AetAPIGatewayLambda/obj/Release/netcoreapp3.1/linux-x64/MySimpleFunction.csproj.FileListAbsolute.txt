@@ -1,0 +1,12 @@
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunction.deps.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunction.runtimeconfig.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunction.runtimeconfig.dev.json
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunction.dll
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunction.pdb
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.csprojAssemblyReference.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.AssemblyInfoInputs.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.AssemblyInfo.cs
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.csproj.CoreCompileInputs.cache
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.dll
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.pdb
+/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunction.genruntimeconfig.cache
