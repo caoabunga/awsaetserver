@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{494B11BE-47D2-4002-8435-7380DF774697}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../test/MySimpleFunction.Tests/FunctionTest.cs">
     <Files>
       <File FileName="Function.cs" Line="77" Column="23" />
       <File FileName="aws-lambda-tools-defaults.json" Line="1" Column="1" />
       <File FileName="TestClass.cs" Line="7" Column="15" />
       <File FileName="Readme.md" />
-      <File FileName="../../test/MySimpleFunction.Tests/FunctionTest.cs" Line="27" Column="84" />
+      <File FileName="../../test/MySimpleFunction.Tests/FunctionTest.cs" Line="43" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

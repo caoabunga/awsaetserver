@@ -1,8 +1,6 @@
 using System;
 using System.Net;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Amazon.Lambda.APIGatewayEvents;
 using Newtonsoft.Json;
 
@@ -16,7 +14,12 @@ namespace AETServer
 {
     public class ElgibilityFunctions
     {
-
+        /// <summary>
+        /// Web response via Amazon API Gateway 
+        /// </summary>
+        /// <param name="request"></param>
+        /// <param name="context"></param>
+        /// <returns></returns>
         public APIGatewayProxyResponse Get( APIGatewayProxyRequest request, ILambdaContext context)
         {
 
@@ -59,21 +62,12 @@ namespace AETServer
             return response;
         }
 
-        void LogMessage(ILambdaContext ctx, string msg)
-        {
-            ctx.Logger.LogLine(
-                string.Format("{0}:{1} - {2}",
-                    ctx.AwsRequestId,
-                    ctx.FunctionName,
-                    msg));
-        }
-
         /// <summary>
-        /// A simple function that takes a string and does a ToUpper
+        /// Simple lambda function that takes a POCO and returns a string
         /// </summary>
         /// <param name="input"></param>
         /// <param name="context"></param>
-        /// <returns></returns>
+        /// <returns>generic string</returns>
         public string FunctionHandler(NewUser input, ILambdaContext context)
         {
 
@@ -84,6 +78,15 @@ namespace AETServer
             // return $"Welcome dude: {input.firstName.ToUpper()} {input.surname} Your dog: {input.dogname}";
             return $"Generic response from FunctionHandler: {input} ";
             // return input?.ToUpper();
+        }
+
+        void LogMessage(ILambdaContext ctx, string msg)
+        {
+            ctx.Logger.LogLine(
+                string.Format("{0}:{1} - {2}",
+                    ctx.AwsRequestId,
+                    ctx.FunctionName,
+                    msg));
         }
     }
 }
