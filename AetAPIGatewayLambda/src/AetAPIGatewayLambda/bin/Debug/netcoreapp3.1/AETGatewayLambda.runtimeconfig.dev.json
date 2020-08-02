@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/caoabunga/.dotnet/store/|arch|/|tfm|",
-      "/Users/caoabunga/.nuget/packages"
+      "/Users/williamcao/.dotnet/store/|arch|/|tfm|",
+      "/Users/williamcao/.nuget/packages"
     ]
   }
 }

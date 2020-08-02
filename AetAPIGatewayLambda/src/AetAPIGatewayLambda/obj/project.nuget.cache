@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bb3FqAefDgNyADlyBPUqZZ5T0Qr/nGtXpyvTKuSiF/UBmaYRyRnA13XZgKh3qdYrrrgCISQN1jUGeazgIHqfgw==",
+  "dgSpecHash": "VKbllYXM312jn0HUwqM/gWMiMBss75ulkGIR0V3CKyRwU6VNy0SLNp+xz304GKFim/uHS5tmL2BueVPEAKHQjg==",
   "success": true,
-  "projectFilePath": "/Users/caoabunga/projects/halfaker/dotnet-lambda/MySimpleFunction/src/MySimpleFunction/AETGatewayLambda.csproj",
+  "projectFilePath": "/Users/williamcao/projects/halfaker/awsaetserver/AetAPIGatewayLambda/src/AetAPIGatewayLambda/AETGatewayLambda.csproj",
   "expectedPackageFiles": [
-    "/Users/caoabunga/.nuget/packages/amazon.lambda.apigatewayevents/2.1.0/amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
-    "/Users/caoabunga/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
-    "/Users/caoabunga/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.0.1/amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
-    "/Users/caoabunga/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+    "/Users/williamcao/.nuget/packages/amazon.lambda.apigatewayevents/2.1.0/amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
+    "/Users/williamcao/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
+    "/Users/williamcao/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.0.1/amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
+    "/Users/williamcao/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,18 +1,39 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{494B11BE-47D2-4002-8435-7380DF774697}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Function.cs" Line="12" Column="78" />
-      <File FileName="aws-lambda-tools-defaults.json" Line="15" Column="64" />
-      <File FileName="TestClass.cs" />
+      <File FileName="Function.cs" Line="77" Column="23" />
+      <File FileName="aws-lambda-tools-defaults.json" Line="1" Column="1" />
+      <File FileName="TestClass.cs" Line="7" Column="15" />
       <File FileName="Readme.md" />
+      <File FileName="../../test/MySimpleFunction.Tests/FunctionTest.cs" Line="27" Column="84" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AetAPIGatewayLambda" expanded="True" selected="True">
+          <Node name="AetAPIGatewayLambda" expanded="True">
             <Node name="AETGatewayLambda" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MySimpleFunction.Tests" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="FunctionTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AetAPIGatewayLambda" expanded="True">
+            <Node name="MySimpleFunction.Tests" expanded="True">
+              <Node name="AETServer.Tests" expanded="True">
+                <Node name="FunctionTest" expanded="True">
+                  <Node name="TestToUpperFunction" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -22,8 +43,11 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MySimpleFunction.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/williamcao/projects/halfaker/awsaetserver/AetAPIGatewayLambda/test/MySimpleFunction.Tests/FunctionTest.cs" line="27" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
