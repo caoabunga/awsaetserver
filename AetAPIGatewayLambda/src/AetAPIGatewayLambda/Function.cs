@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using Amazon.Lambda.Core;
 
 // Assembly attribute to enable the Lambda function's JSON input to be converted into a .NET class.
-// This uses the new 3.1 serializer, more trimmed down than previous package.
+// This uses the new 3.1 serializer, more trimmed down than previous package..
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
 
 namespace AETServer
