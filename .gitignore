@@ -3,3 +3,13 @@
 bin
 obj
 packages
+AetAPIGatewayLambda/.DS_Store
+AetAPIGatewayLambda/src/.DS_Store
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.DS_Store
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.vs/AetAPIGatewayLambda/xs/project-cache/AETGatewayLambda-Debug.json
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.vs/AetAPIGatewayLambda/xs/project-cache/MySimpleFunction.Tests-Debug.json
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.vs/AetAPIGatewayLambda/xs/UserPrefs.xml
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.vs/AETGatewayLambda/xs/project-cache/AETGatewayLambda-Debug.json
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/.vs/AETGatewayLambda/xs/UserPrefs.xml
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/AETGatewayLambda.csproj
+AetAPIGatewayLambda/src/AetAPIGatewayLambda/AETGatewayLambda.sln
