@@ -4,7 +4,7 @@
 # dotnet lambda package -c Debug -o ../aetserver.zip -f netcoreapp3.1 --msbuild-parameters "AETGatewayLambda.csproj"
 
 # command for deploying into aws
-# dotnet lambda deploy-function MySimpleFunction
+# dotnet lambda deploy-function AETGetMethod --msbuild-parameters "AETGatewayLambda.csproj"
 
 # command for invoking lambda function
 dotnet lambda invoke-function MySimpleFunction -–region us-east-1

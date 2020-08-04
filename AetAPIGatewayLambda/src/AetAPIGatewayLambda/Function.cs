@@ -24,7 +24,6 @@ namespace AETServer
         {
 
             LogMessage(context, "Processing request started");
-            Console.WriteLine("console write line test API TEST");
 
             APIGatewayProxyResponse response;
             try
@@ -68,16 +67,15 @@ namespace AETServer
         /// <param name="input"></param>
         /// <param name="context"></param>
         /// <returns>generic string</returns>
-        public string FunctionHandler(NewUser input, ILambdaContext context)
+        public object FunctionHandler(NewUser input, ILambdaContext context)
         {
 
-            LogMessage(context, "A different logger");
-            LambdaLogger.Log("Start FunctionHandler calls!!!!");
-            Console.WriteLine("console write line test");
-            // LambdaLogger.Log($"Calling function name: {context.FunctionName}\\n  {input.surname.ToUpper()}");
-            // return $"Welcome dude: {input.firstName.ToUpper()} {input.surname} Your dog: {input.dogname}";
+            LogMessage(context, "Log Message Function");
+            LambdaLogger.Log("Start FunctionHandler --");
+
+            // return $"Welcome: {input.firstName.ToUpper()} {input.surname} Your dog: {input.dogname}";
             return $"Generic response from FunctionHandler: {input} ";
-            // return input?.ToUpper();
+
         }
 
         void LogMessage(ILambdaContext ctx, string msg)

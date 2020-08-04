@@ -15,7 +15,7 @@ namespace AETServer.Tests
     public class FunctionTest
     {
         [Fact]
-        public void TestToUpperFunction()
+        public void TestFunctionHandler()
         {
 
             // Invoke the lambda function
